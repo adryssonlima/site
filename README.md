@@ -1,3 +1,3 @@
 # site
 Site de teste
-Este é meu site (Adrysson de Lima)
+Este é meu site
